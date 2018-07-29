@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rooms>
+  
+  <Room>
+    <Number>11</Number>
+    <NumberOfPlaces>1</NumberOfPlaces>
+    <Class>2</Class>
+    <Status>Доступен</Status>
+  </Room>
+
+
+  <Room>
+    <Number>32</Number>
+    <NumberOfPlaces>3</NumberOfPlaces>
+    <Class>1</Class>
+    <Status>Доступен</Status>
+  </Room>
+
+
+  <Room>
+    <Number>73</Number>
+    <NumberOfPlaces>2</NumberOfPlaces>
+    <Class>3</Class>
+    <Status>Недоступен</Status>
+  </Room>
+
+
+  <Room>
+    <Number>43</Number>
+    <NumberOfPlaces>1</NumberOfPlaces>
+    <Class>3</Class>
+    <Status>Доступен</Status>
+  </Room>
+
+
+  <Room>
+    <Number>42</Number>
+    <NumberOfPlaces>3</NumberOfPlaces>
+    <Class>2</Class>
+    <Status>Недоступен</Status>
+  </Room>
+
+
+  <Room>
+    <Number>27</Number>
+    <NumberOfPlaces>2</NumberOfPlaces>
+    <Class>1</Class>
+    <Status>Доступен</Status>
+  </Room>
+  
+</Rooms>

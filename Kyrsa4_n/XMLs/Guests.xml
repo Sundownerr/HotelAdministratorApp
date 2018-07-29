@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Guests>
+  
+  <Guest>
+    <Room>73</Room>
+    <Class>3</Class>
+    <Name>Иван</Name>
+    <Surname>Иванов</Surname>
+    <DateOfBirth>09/06/1991</DateOfBirth>
+    <CheckInDate>12/07/2018</CheckInDate>
+    <CheckOutDate>12/08/2018</CheckOutDate>
+    <ResidingCost>2130 р.</ResidingCost>
+  </Guest>
+
+  <Guest>
+    <Room>42</Room>
+    <Class>2</Class>
+    <Name>Сидор</Name>
+    <Surname>Сидоров</Surname>
+    <DateOfBirth>11/01/1981</DateOfBirth>
+    <CheckInDate>09/03/2018</CheckInDate>
+    <CheckOutDate>10/04/2018</CheckOutDate>
+    <ResidingCost>3130 р.</ResidingCost>
+  </Guest>
+
+</Guests>
